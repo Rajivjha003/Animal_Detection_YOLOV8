@@ -54,8 +54,9 @@ python main.py
 
 ## Screenshots
 
-![Screenshot 1](https://raw.githubusercontent.com/example/animal-detection/main/screenshot1.jpg)
-![Screenshot 2](https://raw.githubusercontent.com/example/animal-detection/main/screenshot2.jpg)
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://raw.githubusercontent.com/Rajivjha003/Animal_Detection_YOLOV8/main/demo/Predict.jpg" alt="GIF" width="1234" height="214">
+</div>
 
 ## Contributing
 
@@ -65,5 +66,3 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-This README includes a folder structure section formatted using emojis and modern design elements for a trendy and professional look. Adjust the structure and emojis as needed to match your project's layout and preferences.
